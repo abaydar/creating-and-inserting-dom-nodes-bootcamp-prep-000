@@ -3,12 +3,10 @@
 var element = document.createElement('div');
 
 element.innerHTML = 'Hello, DOM!';
-"Hello, DOM!"
+
 element.style.backgroundColor = '#f9f9f9';
 
-element.style.fontSize = 15
-15
+
 document.body.appendChild(element);
-<div style=​"background-color:​ rgb(249, 249, 249)​;​">​Hello, DOM!​</div>​
+
 element.style.textAlign = 'center';
-"center"
